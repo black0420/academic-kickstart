@@ -88,7 +88,7 @@ show_related = {docs = true, page = false, post = false, project = false, public
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "ymjiao@zju.edu.cn"
+email = "fubofb@zju.edu.cn"
 # phone = "888 888 88 88"
 
 # Address

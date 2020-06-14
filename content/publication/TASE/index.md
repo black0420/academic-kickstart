@@ -1,17 +1,16 @@
 ---
-title: "MASD: A Multimodal Assembly Skill Decoding System for Robot Programming by Demonstration"
+title: "Visual-Inertial Localization and Map Summarization Based on Prior Map"
 authors:
-- Yue Wang
 - admin
+- Yanmei Jiao
+- Xiaqing Ding
+- Yue Wang
 - Rong Xiong
-- Hongsheng Yu
-- Jiafan Zhang
-- Yong Liu
-date: "2018-01-18T00:00:00Z"
-doi: "10.1109/TASE.2017.2783342"
+date: "2019-08-07T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2018-01-18T00:00:00Z"
+publishDate: "2019-08-07T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,10 +19,10 @@ publishDate: "2018-01-18T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Automation Science and Engineering, 15*(4)"
-publication_short: "TASE"
+publication: "*Proceedings of 2019 Chinese Intelligent Automation Conference, 586"
+publication_short: "CIAC 2019"
 
-abstract: In *IEEE Transactions on Automation Science and Engineering (TASE)*, 2018.
+abstract: In *Proceedings of 2019 Chinese Intelligent Automation Conference (CIAC)*, 2019.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -33,7 +32,7 @@ tags:
 featured: false
 
 # links:
-url_pdf: https://ieeexplore.ieee.org/abstract/document/8263146
+url_pdf: https://link.springer.com/chapter/10.1007/978-981-32-9050-1_40
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

@@ -1,10 +1,10 @@
 ---
 title: "LiDAR-Camera Calibration under Arbitrary Configurations: Observability and Methods"
 authors:
-- Bo Fu
+- admin
 - Yue Wang
 - Xiaqing Ding
-- admin
+- Yanmei Jiao
 - Li Tang
 - Rong Xiong
 date: "2019-07-29T00:00:00Z"

@@ -1,9 +1,9 @@
 ---
 title: "Globally optimal consensus maximization for robust visual inertial localization in point and line map"
 authors:
-- admin
+- Yanmei Jiao
 - Yue Wang
-- Bo Fu
+- admin
 - Qimeng Tan
 - Lei Chen
 - Shoudong Huang

@@ -1,10 +1,10 @@
 ---
 title: "2-Entity RANSAC for Robust Visual Localization: Framework, Methods and Verifications"
 authors:
-- admin
+- Yanmei Jiao
 - Yue Wang
 - Xiaqing Ding
-- Bo Fu
+- admin
 - Shoudong Huang
 - Rong Xiong
 date: "2020-04-07T00:00:00Z"

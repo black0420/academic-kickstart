@@ -1,5 +1,5 @@
 ---
-title: "LiDAR-Camera Calibration under Arbitrary Configurations: Observability and Methods"
+title: "High Precision Multi-Camera Assisted Camera-IMU Calibration: Theory and Method"
 authors:
 - admin
 - Fuzhang Han

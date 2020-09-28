@@ -36,7 +36,7 @@ tags:
 featured: false
 
 # links:
-url_pdf: https://ieeexplore.ieee.org/abstract/document/8778711
+url_pdf: 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
